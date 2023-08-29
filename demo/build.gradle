@@ -2,10 +2,6 @@ plugins {
     id 'java'
 }
 
-java {
-    sourceCompatibility = 18
-}
-
 group = 'com.epam.demo'
 version = '1.0.0'
 

@@ -3,10 +3,6 @@ plugins {
     id 'maven-publish'
 }
 
-java {
-    sourceCompatibility = 18
-}
-
 group = 'com.epam.utils'
 version = '1.0.0'
 
